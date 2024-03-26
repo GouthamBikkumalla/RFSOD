@@ -1,0 +1,5 @@
+classes= 3
+train  = data/BCCD_train.txt  
+valid  = data/BCCD_test.txt  
+names = data/BCCD.names  
+backup = backup/
